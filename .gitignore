@@ -1,0 +1,12 @@
+tmp
+coverage
+.yardoc
+.ruby-version
+pkg
+.bundle
+.test-rails-apps
+public
+.rspec_failures
+.rails-version
+.rbenv-version
+node_modules
