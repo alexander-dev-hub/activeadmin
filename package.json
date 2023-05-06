@@ -17,7 +17,7 @@
   },
   "homepage": "htts://activeadmin.info",
   "devDependencies": {
-    "gherkin-lint": "^3.3.3"
+    "gherkin-lint": "^4.2.2"
   },
   "scripts": {
     "lint": "gherkin-lint features"
